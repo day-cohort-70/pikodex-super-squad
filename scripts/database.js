@@ -76,3 +76,5 @@ const database = [
 export const getPikomon = () => {
     return database
 }
+
+// this moduel will contain the data base and define a function for the data base to be exported to the main .js file 
